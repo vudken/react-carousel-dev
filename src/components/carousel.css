@@ -100,7 +100,7 @@
 
 @media (max-width: 960px) and (max-height: 840px) {
     .box {
-        min-height: 45%;
+        min-height: 70%;
     }
     .switch>span {
         display: none;
