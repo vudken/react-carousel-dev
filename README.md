@@ -11,4 +11,4 @@ This repository was built for small and simple slider/carousel with:
 &nbsp;&nbsp;&nbsp;5. Supports swipes.
 
 To check how does it work just go to:
-https://vudken.github.io/react-carousel/
+http://vudken.github.io/react-carousel
